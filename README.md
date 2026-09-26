@@ -22,3 +22,5 @@ python3 cyclopus-bot-v1.py
 # References
 
 # Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/cyclopus-bot-v1&type=Date)](https://star-history.com/#Iankulani/cyclopus-bot-v1&Date)
