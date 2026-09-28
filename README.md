@@ -16,7 +16,6 @@ cd cyclopus-bot-v1
  ```bash
 python3 cyclopus-bot-v1.py
 ```
-
 # Documentation
 
 # References
